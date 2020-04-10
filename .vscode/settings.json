@@ -1,0 +1,11 @@
+{
+	"editor.tokenColorCustomizations": {
+		"variables": "#f39c12"
+	},
+	// Always include all words from the current document.
+	"javascript.suggest.alwaysAllWords": true,
+
+	// Complete functions with their parameter signature.
+	"javascript.suggest.useCodeSnippetsOnMethodSuggest": true,
+	"git.ignoreLimitWarning": true
+}
